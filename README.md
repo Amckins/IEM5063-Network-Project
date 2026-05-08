@@ -12,7 +12,7 @@ The standard Stoer-Wagner algorithm finds the global minimum cut of an undirecte
 
 - `read.py` — loads a grayscale PNG and builds a weighted pixel adjacency graph
 - `stoer_wagner.py` — the modified algorithm
-- `main.py` — loads an image, runs the algorithm, and displays the result
+- `main.ipynb` — loads an image, runs the algorithm, and displays the result
 
 ## Requirements
 
